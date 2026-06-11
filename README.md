@@ -5,6 +5,6 @@
 - 🚀 I’m working on Computer Vision and 3D radar/LiDAR related projects
 - 💞️ I’m looking to collaborate on AI, Python and Computer Vision projects
 - 📫 How to reach me: 
-  Telegram: https://t.me/Doston_R_H
+  Telegram: https://t.me/DHomidov
   LinkedIn: https://linkedin.com/in/doston-homidov-392b33277
 
